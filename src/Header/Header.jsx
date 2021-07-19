@@ -31,9 +31,9 @@ export default function Header() {
 
     const history = useHistory();
 
-    const [page, setPage] = useState('About');
+    const [page, setPage] = useState('');
 
-    const [isNavigating, setIsNavigating] = useState(false)
+    const [isNavigating, setIsNavigating] = useState(true)
 
     const changeTab = (e, page) => {
         console.log(e);

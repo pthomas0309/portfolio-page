@@ -1,0 +1,28 @@
+.fontstyle {
+    color: #faebd7;
+}
+
+.contact {
+    font-size: 75px;
+    color: #CC3333;
+}
+
+.mailIcon {
+    display: grid;
+    height: 600px;
+    grid-template-columns: 35px 750px ;
+    grid-template-rows: 35px 35px 35px;
+}
+
+.email {
+    margin: 5px 10px 5px 10px;
+}
+
+.number {
+    margin: 5px 10px 5px 10px;
+}
+
+.linkedIn {
+    margin: 5px 10px 5px 10px;
+    color: #e52b50;
+}
