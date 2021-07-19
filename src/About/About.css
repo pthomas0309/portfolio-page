@@ -1,0 +1,41 @@
+.fontstyle {
+    color: #faebd7;
+}
+
+h3 {
+    font-size: 50px;
+    padding-left: 100px;
+}
+
+.welcome {
+    font-size: 75px;
+    color: #CC3333;
+}
+
+.adminImage {
+    border-radius: 50%;
+}
+
+.imageBorder {
+    background-color: #915c83;
+    border-radius: 50%;
+    width: 500px;
+    margin-left: 25px;
+    padding: 20px 20px 20px 20px;
+}
+.aboutMe {
+    background-color: #282828;
+    padding: 20px 20px 20px 20px;
+    display: grid;
+    grid-template-columns: 750px 750px ;
+    grid-template-rows: 545px;
+}
+
+.aboutBlurb {
+    text-align: center;
+    margin-top: 125px;
+}
+
+h4 {
+    font-size: 45px;
+}
